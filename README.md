@@ -23,8 +23,7 @@ Python | Pandas | NumPy | Jupyter Notebook | ETL | Análisis estadístico
 
 ## 📁 Estructura del proyecto
 - `analysis.ipynb` → análisis completo
-- `data/` → datasets utilizados (si aplica)
-- `images/` → visualizaciones (opcional)
+- `images/` → visualizaciones
 
 ## 💡 Aprendizajes
 Este proyecto fortaleció mi capacidad para trabajar con datos reales, aplicar procesos ETL y generar insights a partir de análisis estadístico.
